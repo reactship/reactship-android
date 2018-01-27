@@ -1,2 +1,1 @@
-# reactship-android
-Android Platform
+# reactship-app-android
