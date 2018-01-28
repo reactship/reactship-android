@@ -1,0 +1,11 @@
+{
+  "name": "reactship-app-android",
+  "version": "0.0.1",
+  "private": false,
+  "description": "Reactship Android",
+  "author": "Pavel Jacko <i@pavjacko.com>",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "upperDependencies": {}
+}
